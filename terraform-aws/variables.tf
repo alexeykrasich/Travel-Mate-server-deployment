@@ -1,0 +1,7 @@
+variable "password" {
+
+}
+
+variable "username" {
+
+}
